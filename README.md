@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Vitor (jv904)
 
 🎓 Estudante de **Ciências da Computação**  
-💻 Apaixonado por **programação back-end**, com foco em **Java** e **Spring Boot**  
+💻 Apaixonado por **programação back-end** 
 📈 Sempre em busca de aprendizado e evolução na área de tecnologia  
 
 ---
