@@ -1,46 +1,17 @@
-# 👋 Olá, eu sou o João Vitor (jv904)
+<img src="assets/ficha.svg" width="100%" alt="João Vitor, jv904. Back-end em formação, cursando Ciência da Computação, com foco em Java e Spring. Fora do código: academia, RPG e rock. Tecnologias por área: Linguagens 7, Back-end 11, Front-end 6, Bancos de dados 2, Testes 5, Ferramentas 4.">
 
-🎓 Estudante de **Ciências da Computação**  
-💻 Apaixonado por **programação** 
-📈 Sempre em busca de aprendizado e evolução na área de tecnologia  
+<a href="https://github.com/jv904/FinanceTable"><img src="assets/missao-principal.svg" width="100%" alt="Missão principal: FinanceTable, plataforma de controle financeiro pessoal com receitas e despesas, categorias, metas e relatórios, feita com Java 21, Spring Boot 4, Angular 22, PostgreSQL 17 e Docker. 8 de 8 etapas concluídas. A imagem mostra a tela inicial, com saldo e gráficos."></a>
 
----
+<img src="assets/titulo-missoes.svg" width="100%" alt="Missões secundárias">
 
-## 🚀 Tecnologias & Ferramentas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://github.com/jv904/board-para-gerenciamento-de-tarefas"><img src="assets/missao-board.svg" width="100%" alt="Board de tarefas: Quadro no estilo Kanban para o terminal. Java · JDBC."></a>
 
----
+<a href="https://github.com/jv904/to_do_list"><img src="assets/missao-api.svg" width="100%" alt="To-Do List API: API para cadastrar, listar, atualizar e remover tarefas. Java · Spring Boot · JPA."></a>
 
-## 📌 Projetos em destaque
-- [Board para Gerenciamento de Tarefas](https://github.com/jv904/board-para-gerenciamento-de-tarefas)  
-  Aplicação para organizar tarefas em colunas (estilo Kanban), ajudando no gerenciamento de atividades e produtividade.  
+<a href="https://github.com/jv904/jv904--To-Do-List-em-Python"><img src="assets/missao-python.svg" width="100%" alt="To-Do List em Python: Lista de tarefas para desktop, com dados salvos localmente. Python · Tkinter · SQLite."></a>
 
----
+<a href="https://github.com/jv904/Sistema-de-Conta-Banc-ria-em-C-"><img src="assets/missao-csharp.svg" width="100%" alt="Conta bancária em C#: Depósitos e saques para praticar orientação a objetos. C#."></a>
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jv904&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jv904&layout=compact&theme=tokyonight)
+<img src="assets/inventario.svg" width="100%" alt="Inventário de tecnologias. Linguagens: Java, TypeScript, SQL, HTML, Sass, C#, Python. Back-end: Spring Boot, Spring Security, Spring Data JPA, Spring Session, Spring Mail, Actuator, Hibernate, Bean Validation, Flyway, Caffeine, Maven. Front-end: Angular, Angular Material, RxJS, Node.js, npm, Prettier. Bancos de dados: PostgreSQL, SQLite. Testes: JUnit, MockMvc, Testcontainers, Vitest, jsdom. Ferramentas: Docker, Docker Compose, Mailpit, Git.">
 
----
-
-## 📫 Contato
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jv904)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitoralmeida59)
-
----
-
-## 🎯 Sobre mim
-- 📚 Estudando para me tornar um desenvolvedor back-end sólido  
-- 🔥 Interesses: programação, academia, RPG, música (rock)  
-- 🎲 Criatividade e dedicação fazem parte do meu dia a dia  
-
----
-
-⭐ Sempre aberto a conexões e colaborações!
+<a href="https://www.linkedin.com/in/joaovitoralmeida59"><img src="assets/contato.svg" width="100%" alt="Contato: abrir o LinkedIn de João Vitor"></a>
