@@ -1,4 +1,4 @@
-<img src="assets/ficha.svg" width="100%" alt="João Vitor, jv904. Back-end em formação, cursando Ciência da Computação, com foco em Java e Spring. Fora do código: academia, RPG e rock. Tecnologias por área: Linguagens 7, Back-end 11, Front-end 6, Bancos de dados 2, Testes 5, Ferramentas 4.">
+<img src="assets/ficha.svg" width="100%" alt="João Vitor, jv904. Full stack, cursando Ciência da Computação, com foco em Java e Spring. Fora do código: academia, RPG e rock. Tecnologias por área: Linguagens 7, Back-end 11, Front-end 6, Bancos de dados 2, Testes 5, Ferramentas 4.">
 
 <a href="https://github.com/jv904/FinanceTable"><img src="assets/missao-principal.svg" width="100%" alt="Missão principal: FinanceTable, plataforma de controle financeiro pessoal com receitas e despesas, categorias, metas e relatórios, feita com Java 21, Spring Boot 4, Angular 22, PostgreSQL 17 e Docker. 8 de 8 etapas concluídas. A imagem mostra a tela inicial, com saldo e gráficos."></a>
 
